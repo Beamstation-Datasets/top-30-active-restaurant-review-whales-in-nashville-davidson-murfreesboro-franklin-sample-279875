@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area, US
 
-> Free BeamStation sample export with 79 rows and masked direct-contact fields.
+> Free BeamStation sample export with 107 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `279875` |
 | Location | Nashville-Davidson--Murfreesboro--Franklin, TN |
 | Category | Restaurants |
-| Full dataset size | 791 records |
-| Free sample size | 79 records (9.99%) |
-| Last export | 2026-04-15T01:27:38.101749+00:00 |
+| Full dataset size | 1,074 records |
+| Free sample size | 107 records (9.96%) |
+| Last export | 2026-04-22T06:03:26.571990+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-nashville-davidson-murfreesboro-franklin-sample-279875/releases/download/sample-latest/beamstation_279875_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
