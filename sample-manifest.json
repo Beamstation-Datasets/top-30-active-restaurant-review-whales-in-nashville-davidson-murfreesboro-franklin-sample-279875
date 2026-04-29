@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6a139989-0def-43dc-96f3-212336e543e9",
+  "export_job_id": "1b7ab37c-d7d1-4bb9-ab9e-4ef49cd3e5db",
   "id_short": 279875,
-  "published_at": "2026-04-22T07:18:52Z",
+  "published_at": "2026-04-29T19:03:34Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-nashville-davidson-murfreesboro-franklin-sample-279875",
   "sample_asset_name": "beamstation_279875_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/279875/beamstation_279875_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
-  "sample_records": 107,
-  "sample_sha256": "c30a88ef4b096cee92ca42e0636f511bd55240cd9e63aa2ee9a7b869bcad1030",
-  "sample_size_bytes": 457760,
-  "total_records": 1074
+  "sample_records": 145,
+  "sample_sha256": "f4a6e7eac5099fadb3e385aa21db0ebf834070311ab7a5ade6fff9322a2b11fc",
+  "sample_size_bytes": 583388,
+  "total_records": 1451
 }
